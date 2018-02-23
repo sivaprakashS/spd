@@ -19,7 +19,7 @@ for(j=i+1;j<n;j++)
 		a[j]=b;
     }
 }
-printf("%d%d\n",a[0],a[n-1]);
+printf("%d%d",&\n a[],b[]);
 }
 
 
